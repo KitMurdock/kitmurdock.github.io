@@ -28,7 +28,7 @@ url: "https://kitmurdock.github.io/" # the base hostname & protocol for your sit
 repository: kitmurdock/kitmurdock.github.io
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
