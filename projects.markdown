@@ -16,5 +16,4 @@ Let me know if you have any specific ideas relating to these topics. We can alwa
 * IoT hacking
 * Social Engineering/OSINT in software
 * CPU emulation using the [Unicorn Engine](https://www.unicorn-engine.org/)
-* New takes on helpdesk software
 * C/C++ software projects
