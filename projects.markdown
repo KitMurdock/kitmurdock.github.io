@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: Projects
 permalink: /projects/
-author: kitkat
 ---
 ## Ideas
 Let me know if you have any specific ideas relating to these topics. We can always adapt ideas to your skills.

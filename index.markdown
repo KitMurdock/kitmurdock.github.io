@@ -3,16 +3,18 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: About
+title: Home
 ---
 ![Me](../images/KitHeadshot.jpg#left) 
 ## Research interests
 * Software Fault injection
 * Secure Software 
 * Intel software to hardware interfaces
+* Embedded devices
+
+## Other interest
 * Gender biases in software/hardware/processes
 * Social engineering
-* Embedded devices
 
 ## Teaching 2021-22
 Secure Software and Hardware Systems 

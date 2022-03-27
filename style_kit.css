@@ -1,5 +1,6 @@
 img[src*='#left'] {
     float: left;
+    margin-right: 30px;
 }
 img[src*='#right'] {
     float: right;
@@ -7,4 +8,12 @@ img[src*='#right'] {
 img[src*='#center'] {
     display: block;
     margin: auto;
+}
+
+#header_wrap .inner {
+    padding: 40px 10px 10px 10px;
+}
+
+#main_content.inner {
+        padding: 100px 10px;
 }

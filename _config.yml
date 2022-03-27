@@ -21,8 +21,7 @@
 title: Kit Murdock
 email: k.murdock@bham.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome and hello. I'm a teaching fellow at the University of Birmingham. 
-  My main research area are software fault injection.
+  Hello, I'm Kit, a teaching fellow, at the University of Birmingham. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kitmurdock.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 repository: kitmurdock/kitmurdock.github.io
